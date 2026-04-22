@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Mojahedi/VsCodeProject/Decoding_DevOps_From_Basics_to_Advanced_Projects_with_AI/ddc-material-master/05.VagrantAndLinuxServers/test/portfolio","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
